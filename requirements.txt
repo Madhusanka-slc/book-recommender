@@ -10,3 +10,5 @@ langchain-chroma
 transformers
 gradio
 ipywidgets
+torch
+langchain_huggingface
