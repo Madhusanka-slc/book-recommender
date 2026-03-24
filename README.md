@@ -43,7 +43,7 @@ pip install -r requirements.txt
 Run the Gradio dashboard:
 
 ```bash
-python app.py
+python gradio-dashboard.py
 ```
 
 Now the dashboard will be available at `http://127.0.0.1:7860`. You can enter book descriptions or queries to get personalized recommendations.
